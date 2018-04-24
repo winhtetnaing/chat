@@ -43,4 +43,4 @@ If you have any suggestions please do mail me at `winhtetnaing2013@gmail.com` wi
 
 # Credits
 I have used some code from AdminLTE for the chat UI. The HTML and dependent CSS.  
-The private chat box has been taken from [Gurdeep Osahan](http://bootsnipp.com/Gurdeep%20Osahan).
+The private chat box has been taken from MEAN Framework,Mongo,Node and socket.io reference.
